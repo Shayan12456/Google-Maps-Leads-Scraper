@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS and Editor files
+.DS_Store
+.vscode/
+
+# Output files
+*.csv
+
+# Dependency locks (optional if using yarn instead)
+package-lock.json
+
+# Git folder (optional if recreating git history)
+.git/
